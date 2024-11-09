@@ -222,7 +222,10 @@ border-radius: 10px;
   }
   #P1{
    top: 200px;
-   left: 200px;
+   left: 755px;
+   margin: 0;
+   padding: 0;
+   max-width: 23%;
   }
   #P2{
     top: 100px;
@@ -230,7 +233,10 @@ border-radius: 10px;
    }
    #P3{
     bottom: 360px;
-    left: 500px;
+    left: 1071px;
+    margin: 0;
+    padding: 0;
+    max-width: 23%;
    }
 
 
